@@ -1,0 +1,13 @@
+{
+  "name": "githubuseractivity",
+  "version": "1.0.0",
+  "description": "A simple command line interface (CLI) to fetch the recent activity of a GitHub user and display it in the terminal.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "github-activity": "node --watch app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
